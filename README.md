@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm M Ilham Sabar</h1>
 <h3 align="center">A Passionate Fullstack Developer From Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilham-dev" alt="ilham-dev" /> </p>
-
 - 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at [http://ilham-dev.github.io/](http://ilham-dev.github.io/)
