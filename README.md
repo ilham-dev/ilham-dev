@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [http://ilham-dev.github.io/](http://ilham-dev.github.io/)
 
-- 💬 Ask me about **Laravel, Lumen, Express JS**
+- 💬 Ask me about **Laravel, Lumen, Express JS, Hapi Js**
 
 - 📫 How to reach me **ilhamsabardev@gmail.com**
 
